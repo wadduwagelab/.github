@@ -9,11 +9,19 @@ Our work combines **compressive sensing**, **information theory**, and **machine
 ---
 
 ## Principal Investigator
-**[Dushan Wadduwage]([https://scholar.google.com/](https://www.linkedin.com/in/dushan-wadduwage-b496b82a/))**  
+
+<table>
+<tr>
+<td width="200">
+<img src="images/dushan.png" alt="Dushan Wadduwage" width="200">
+</td>
+<td>
+<strong>Dushan Wadduwage</strong>  
 Assistant Professor, Department of Computer Science  
 Old Dominion University (ODU)
-<img src="images/dushan.png" alt="Dushan Wadduwage" width="200">
-
+</td>
+</tr>
+</table>
 ---
 
 ## Lab Members
