@@ -5,20 +5,20 @@ Our work combines **compressive sensing**, **information theory**, and **machine
 
 ---
 
-## 🧑‍🔬 Principal Investigator
+## Principal Investigator
 **[Dushan (Nawoda) Wadduwage]([https://scholar.google.com/](https://www.linkedin.com/in/dushan-wadduwage-b496b82a/))**  
 Assistant Professor, Department of Computer Science  
 Old Dominion University (ODU)
 
 ---
 
-## 👥 Lab Members
+## Lab Members
 - **Leonidas Zimianitis** — Ph.D. Student in Computer Science, ODU  
 - **Dineth Jayakody** — Ph.D. Student in Computer Science, ODU  
 
 ---
 
-## 📂 Research Focus Areas
+## Research Focus Areas
 - Computational microscopy  
 - Compressive sensing in imaging  
 - Information-theoretic approaches in optics  
@@ -27,6 +27,6 @@ Old Dominion University (ODU)
 
 ---
 
-## 🔗 Links
+##  Links
 - **Website:** _Coming soon_  
 - **Publications:** _Coming soon_  
