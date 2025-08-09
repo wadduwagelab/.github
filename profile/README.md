@@ -18,7 +18,7 @@ Our work combines **compressive sensing**, **information theory**, and **machine
 Assistant Professor<br>
 Department of Computer Science<br>
 Old Dominion University, VA, USA <br>
-<a href="[https://scholar.google.com/citations?user=XXXX](https://scholar.google.com/citations?user=LHmeoN4AAAAJ&hl=en)" target="_blank"> Google Scholar</a> | 
+<a href="(https://scholar.google.com/citations?user=LHmeoN4AAAAJ&hl=en)" target="_blank"> Google Scholar</a> | 
 <a href="https://www.linkedin.com/in/XXXX" target="_blank"> LinkedIn</a>
 </td>
 </tr>
