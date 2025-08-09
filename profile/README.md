@@ -1,12 +1,15 @@
-## Hi there 👋
+# Sample-Wadduwage-Lab
 
-<!--
+Welcome to the Sample-Wadduwage-Lab GitHub organization.
 
-**Here are some ideas to get you started:**
+**What lives here**
+- Research projects (`project-<slug>`)
+- Shared utilities (`lab-shared`)
+- Manifests/templates (`lab-templates`)
+- Policies and conventions (`lab-handbook`)
+- Manuscripts (`paper-<venue>-<year>-<slug>`) and Grants (`grant-<funder>-<year>-<slug>`)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Conventions (short)**
+- Branches: `feature/<slug>`, `fix/<slug>`, `docs/<slug>`, `paper/<slug>`, `grant/<slug>`
+- Commits: Conventional Commits style: `type(scope): summary` (e.g., `feat(loader): add parquet reader`)
+- PRs: squash merge only; 1 reviewer minimum; link issues (e.g., `Closes #12`).
