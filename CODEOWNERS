@@ -1,0 +1,8 @@
+# Default: PI admins review everything
+*       @Sample-Wadduwage-Lab/pi-admins
+
+# Shared utils
+/lab-shared/*   @Sample-Wadduwage-Lab/core-maintainers
+
+# Example project teams (replace with real names)
+/project-ood-group/*   @Sample-Wadduwage-Lab/project-ood-team
