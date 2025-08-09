@@ -36,7 +36,7 @@ Ph.D. Student<br>
 Computer Science, ODU
 </td>
 <td width="200">
-<img src="images/Dineth Jayakody.JPG" alt="Dineth Jayakody" width="200"><br>
+<img src="images/Dineth.jpg" alt="Dineth Jayakody" width="200"><br>
 <strong>Dineth Jayakody</strong><br>
 Ph.D. Student<br>
 Computer Science, ODU
