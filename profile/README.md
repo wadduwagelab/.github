@@ -26,10 +26,23 @@ Old Dominion University, VA, USA <br>
 
 
 ## Lab Members
-- **Leonidas Zimianitis** — Ph.D. Student in Computer Science, ODU  
-- **Dineth Jayakody** — Ph.D. Student in Computer Science, ODU  
 
----
+<table>
+<tr>
+<td width="200">
+<img src="images/leo.jpg" alt="Leonidas Zimianitis" width="200"><br>
+<strong>Leonidas Zimianitis</strong><br>
+Ph.D. Student<br>
+Computer Science, ODU
+</td>
+<td width="200">
+<img src="images/dineth.jpg" alt="Dineth Jayakody" width="200"><br>
+<strong>Dineth Jayakody</strong><br>
+Ph.D. Student<br>
+Computer Science, ODU
+</td>
+</tr>
+</table>
 
 ## Research Focus Areas
 - Computational microscopy  
