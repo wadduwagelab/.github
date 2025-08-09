@@ -6,8 +6,6 @@
 We are a research group developing **new computational microscopy technologies** through the seamless integration of **optics** and **computational algorithms**.  
 Our work combines **compressive sensing**, **information theory**, and **machine learning** with **optical engineering** to design and build **next-generation instruments** that advance **biological sciences** and improve **medical practices**.
 
----
-
 ## Principal Investigator
 
 <table>
