@@ -1,12 +1,20 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest a new idea for the project
 labels: type:feature, status:todo
 ---
-### Problem
 
-### Proposed solution
+## Summary
+Briefly describe the new feature or improvement.
 
-### Alternatives considered
+## Problem
+What problem does this solve? Why is it needed?
 
-### Impact / risks
+## Proposed solution
+Describe how you think it should work.
+
+## Alternatives considered
+Other ways this could be done.
+
+## Additional notes
+Any references, sketches, or related issues/PRs.
