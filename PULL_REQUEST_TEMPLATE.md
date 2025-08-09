@@ -1,4 +1,4 @@
-## How to Create a Branch from an Issue (Beginner Guide)
+## PR Guide
 
 1. **Create an Issue**
 
