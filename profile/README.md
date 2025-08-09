@@ -33,13 +33,13 @@ Old Dominion University, VA, USA <br>
 <img src="images/leo.jpg" alt="Leonidas Zimianitis" width="200"><br>
 <strong>Leonidas Zimianitis</strong><br>
 Ph.D. Student<br>
-Computer Science, ODU
+Department of Computer Science, ODU
 </td>
 <td width="200">
 <img src="images/Dineth.jpg" alt="Dineth Jayakody" width="200"><br>
 <strong>Dineth Jayakody</strong><br>
 Ph.D. Student<br>
-Computer Science, ODU
+Department of Computer Science, ODU
 </td>
 </tr>
 </table>
