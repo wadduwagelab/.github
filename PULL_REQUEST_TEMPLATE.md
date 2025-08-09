@@ -7,5 +7,4 @@
 - [ ] Data/figures are reproducible (notebooks updated or steps noted)
 - [ ] Breaking changes documented (if any)
 
-## Notes for reviewer
-- Anything risky or worth extra attention?
+
