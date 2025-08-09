@@ -12,7 +12,7 @@ Our work combines **compressive sensing**, **information theory**, and **machine
 **[Dushan Wadduwage]([https://scholar.google.com/](https://www.linkedin.com/in/dushan-wadduwage-b496b82a/))**  
 Assistant Professor, Department of Computer Science  
 Old Dominion University (ODU)
-![Dushan](profile/images/dushan.png)
+![Dushan](images/dushan.png)
 
 ---
 
