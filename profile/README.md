@@ -14,13 +14,13 @@ Our work combines **compressive sensing**, **information theory**, and **machine
 <img src="images/dushan.png" alt="Dushan Wadduwage" width="200">
 </td>
 <td>
-<strong>Dushan Wadduwage</strong>  
+<strong>Dushan Wadduwage, </strong>  
 Assistant Professor, Department of Computer Science  
 Old Dominion University (ODU)
 </td>
 </tr>
 </table>
----
+
 
 ## Lab Members
 - **Leonidas Zimianitis** — Ph.D. Student in Computer Science, ODU  
