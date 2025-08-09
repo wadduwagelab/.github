@@ -61,7 +61,7 @@
 
 ---
 
-## Pull Request — Sample-Wadduwage-Lab
+## Pull Request
 
 ### Summary
 
