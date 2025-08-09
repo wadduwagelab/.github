@@ -1,5 +1,5 @@
 ---
-![Lab Banner](images/profile/back.jpg)
+![Lab Banner](images/back.jpg)
 ---
 # Sample-Wadduwage-Lab
 
