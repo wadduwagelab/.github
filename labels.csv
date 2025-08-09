@@ -1,0 +1,18 @@
+name,description,color
+type:bug,Something is not working,ee0701
+type:feature,New feature request,1d76db
+type:docs,Documentation changes,0075ca
+type:data,Data-related task,5319e7
+type:paper,Paper writing task,c2e0c6
+type:grant,Grant proposal task,2e4a62
+type:question,General question,fbca04
+status:todo,Planned work,8f4b4b
+status:in-progress,Work in progress,fbca04
+status:review,Ready for review,5319e7
+status:blocked,Blocked by something,000000
+P0,Highest priority,d93f0b
+P1,Medium priority,f7c6c7
+P2,Low priority,cccccc
+size:S,Small task (less than 1 day),bfdadc
+size:M,Medium task (few days),c2e0c6
+size:L,Large task (week+),e4e669
