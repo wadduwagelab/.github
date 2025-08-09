@@ -1,5 +1,7 @@
 ## PR Guide
 
+Golden rule: One task = one issue = one branch = one PR (that closes the issue).
+
 1. **Create an Issue**
 
    * Go to your repository → **Issues** → **New issue**.
