@@ -78,5 +78,4 @@ Department of Computer Science, ODU <br>
 ---
 
 ##  Links
-- **Website:** _Coming soon_  
-- **Publications:** _Coming soon_  
+- **New Website:** _Coming soon_  
