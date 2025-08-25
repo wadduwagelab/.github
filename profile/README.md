@@ -51,20 +51,23 @@ Department of Computer Science, ODU
 
 ---
 
-## Alumni
-- Mithunjha Anandakumar  
-- Kithmini Herath  
-- Ramith Hettiarachchi  
-- Udith Haputhanthri  
-- Vinith Kugathasan  
-- Shehan Munasinghe  
-- Hasindu Piyumantha  
-- Jathurshan Pradeepkumar  
-- David Andre Coucheron – Associate Professor, University of Tromso (Former Collaborative PhD student)  
-- Ishan Baliyan – Undergraduate Student, University of Waterloo (Former High School Research Intern)  
-- Liana Owen – Undergraduate Student, HU ‘22 (Former Undergraduate Researcher)  
-- Navodini Wijethilake – Doctoral Student, King’s College London (Former Post Graduate Researcher)  
-- Zhun Wei – Assistant Professor, Zhejiang University (Former Postdoctoral Fellow)  
+## Alumni & Current Affiliations
+
+<table>
+<tr><td><strong>Mithunjha Anandakumar</strong></td><td>—</td></tr>
+<tr><td><strong>Kithmini Herath</strong></td><td>—</td></tr>
+<tr><td><strong>Ramith Hettiarachchi</strong></td><td>—</td></tr>
+<tr><td><strong>Udith Haputhanthri</strong></td><td>—</td></tr>
+<tr><td><strong>Vinith Kugathasan</strong></td><td>—</td></tr>
+<tr><td><strong>Shehan Munasinghe</strong></td><td>—</td></tr>
+<tr><td><strong>Hasindu Piyumantha</strong></td><td>—</td></tr>
+<tr><td><strong>Jathurshan Pradeepkumar</strong></td><td>—</td></tr>
+<tr><td><strong>David Andre Coucheron</strong></td><td>Associate Professor, University of Tromso (Former Collaborative PhD student)</td></tr>
+<tr><td><strong>Ishan Baliyan</strong></td><td>Undergraduate Student, University of Waterloo (Former High School Research Intern)</td></tr>
+<tr><td><strong>Liana Owen</strong></td><td>Undergraduate Student, HU ‘22 (Former Undergraduate Researcher)</td></tr>
+<tr><td><strong>Navodini Wijethilake</strong></td><td>Doctoral Student, King’s College London (Former Post Graduate Researcher)</td></tr>
+<tr><td><strong>Zhun Wei</strong></td><td>Assistant Professor, Zhejiang University (Former Postdoctoral Fellow)</td></tr>
+</table>
 
 ---
 
