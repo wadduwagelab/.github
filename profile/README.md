@@ -23,7 +23,7 @@ Old Dominion University, VA, USA <br>
 </table>
 
 
-## Lab Members
+## Current Lab Members
 
 <table>
 <tr>
@@ -48,6 +48,23 @@ Department of Computer Science, ODU
 - Information-theoretic approaches in optics  
 - Machine learning for biomedical imaging  
 - Optical system design for biological and medical applications  
+
+---
+
+## Alumni
+- Mithunjha Anandakumar  
+- Kithmini Herath  
+- Ramith Hettiarachchi  
+- Udith Haputhanthri  
+- Vinith Kugathasan  
+- Shehan Munasinghe  
+- Hasindu Piyumantha  
+- Jathurshan Pradeepkumar  
+- David Andre Coucheron – Associate Professor, University of Tromso (Former Collaborative PhD student)  
+- Ishan Baliyan – Undergraduate Student, University of Waterloo (Former High School Research Intern)  
+- Liana Owen – Undergraduate Student, HU ‘22 (Former Undergraduate Researcher)  
+- Navodini Wijethilake – Doctoral Student, King’s College London (Former Post Graduate Researcher)  
+- Zhun Wei – Assistant Professor, Zhejiang University (Former Postdoctoral Fellow)  
 
 ---
 
