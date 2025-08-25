@@ -18,6 +18,8 @@ Our work combines **compressive sensing**, **information theory**, and **machine
 Assistant Professor<br>
 Department of Computer Science<br>
 Old Dominion University, VA, USA <br>
+<a href="https://www.linkedin.com/in/dushan-wadduwage-b496b82a/" target="_blank">LinkedIn</a> | 
+<a href="https://scholar.google.com/citations?user=LHmeoN4AAAAJ&hl=en" target="_blank">Google Scholar</a>
 </td>
 </tr>
 </table>
