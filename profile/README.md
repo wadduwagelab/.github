@@ -33,13 +33,17 @@ Old Dominion University, VA, USA <br>
 <img src="images/leo.jpg" alt="Leonidas Zimianitis" width="200"><br>
 <strong>Leonidas Zimianitis</strong><br>
 Ph.D. Student<br>
-Department of Computer Science, ODU
+Department of Computer Science, ODU <br>
+<a href="https://www.linkedin.com/in/leonidas-zimianitis-0463b9299/" target="_blank">LinkedIn</a> | 
+<!-- <a href="https://scholar.google.com/citations?user=XXXXX" target="_blank">Google Scholar</a> -->
 </td>
 <td width="200">
 <img src="images/Dineth.jpg" alt="Dineth Jayakody" width="200"><br>
 <strong>Dineth Jayakody</strong><br>
 Ph.D. Student<br>
-Department of Computer Science, ODU
+Department of Computer Science, ODU <br>
+<a href="https://www.linkedin.com/in/dineth-jayakody-30977b196/" target="_blank">LinkedIn</a> | 
+<a href="https://scholar.google.com/citations?user=605obQkAAAAJ&hl=en" target="_blank">Google Scholar</a>
 </td>
 </tr>
 </table>
