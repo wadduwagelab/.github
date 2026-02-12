@@ -35,6 +35,7 @@ Old Dominion University, VA, USA <br>
 Ph.D. Student<br>
 Department of Computer Science, ODU <br>
 <a href="https://www.linkedin.com/in/leonidas-zimianitis-0463b9299/" target="_blank">LinkedIn</a> | 
+<a href="https://scholar.google.com/citations?user=p3ocR_wAAAAJ&hl=en" target="_blank">Google Scholar</a>         
 <!-- <a href="https://scholar.google.com/citations?user=XXXXX" target="_blank">Google Scholar</a> -->
 </td>
 <td width="200">
