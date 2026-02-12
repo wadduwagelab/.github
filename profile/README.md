@@ -61,14 +61,12 @@ Department of Computer Science, ODU <br>
 ## Alumni & Current Affiliations
 
 <table>
-<tr><td><strong>Mithunjha Anandakumar</strong></td><td>—</td></tr>
-<tr><td><strong>Kithmini Herath</strong></td><td>—</td></tr>
-<tr><td><strong>Ramith Hettiarachchi</strong></td><td>—</td></tr>
-<tr><td><strong>Udith Haputhanthri</strong></td><td>—</td></tr>
-<tr><td><strong>Vinith Kugathasan</strong></td><td>—</td></tr>
-<tr><td><strong>Shehan Munasinghe</strong></td><td>—</td></tr>
-<tr><td><strong>Hasindu Piyumantha</strong></td><td>—</td></tr>
-<tr><td><strong>Jathurshan Pradeepkumar</strong></td><td>—</td></tr>
+<tr><td><strong>Mithunjha Anandakumar</strong></td><td>Ph.D. Candidate, UIUC (Former Postbac Fellow)</td></tr>
+<tr><td><strong>Kithmini Herath</strong></td><td>Ph.D. Student, UC Berkeley (Former Postbac Fellow)</td></tr>
+<tr><td><strong>Ramith Hettiarachchi</strong></td><td>Ph.D. Student, CMU-Pitt (Former Postbac Fellow)</td></tr>
+<tr><td><strong>Udith Haputhanthri</strong></td><td>Ph.D. Student, Princeton (Former Research Asst.)</td></tr>
+<tr><td><strong>Hasindu Piyumantha</strong></td><td>Ph.D. Student, Cornell (Former Postbac Fellow)</td></tr>
+<tr><td><strong>Jathurshan Pradeepkumar</strong></td><td>Ph.D. Student, UIUC (Former Postbac Fellow)</td></tr>
 <tr><td><strong>David Andre Coucheron</strong></td><td>Associate Professor, University of Tromso (Former Collaborative PhD student)</td></tr>
 <tr><td><strong>Ishan Baliyan</strong></td><td>Undergraduate Student, University of Waterloo (Former High School Research Intern)</td></tr>
 <tr><td><strong>Liana Owen</strong></td><td>Undergraduate Student, HU ‘22 (Former Undergraduate Researcher)</td></tr>
