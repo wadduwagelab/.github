@@ -77,4 +77,4 @@ Department of Computer Science, ODU <br>
 ---
 
 ##  Links
-- **New Website:** _Coming soon_  
+- **New Website:** [Wadduwage Lab](https://wadduwagelab.com/)  
